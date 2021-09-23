@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Question 1</title>
+	<style type="text/css">
+		blink
+		{
+			color: red;
+		}
+		h1
+		{
+			color: red;
+		}
+		h2
+		{
+			color: red;
+			font-family: sans-serif;
+			font-size: 20px;
+		}
+		p
+		{
+			color:#FFD700;
+		}
+	</style>
+</head>
+<body bgcolor="black">
+	<h1>Lorem Ipsum</h1>
+	<hr>
+	<div><h2><i><u>What is Mutual Fund</u></i></h2>
+		<p><b><marquee>A mutual fund is a company that pools money from many investors and invests the money in securities such as stocks, bonds, and short-term debt. The combined holdings of the mutual fund are known as its portfolio. Investors buy shares in mutual funds. Each share represents an investor’s part ownership in the fund and the income it generates.</marquee></p>
+	</div>
+	<div><h2><i><u>Why do we use it?</u></i></h2>
+		<p><b>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</b><br>The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p></div>
+		<blink>The Blink tag has become depreciated, but there are still some browsers that support this blink feature. As you ca see blink is not supported in most of the moderns browsers</blink>
+	
+
+</body>
+</html>
